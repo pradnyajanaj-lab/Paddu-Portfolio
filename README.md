@@ -8,3 +8,8 @@ Add goal: contribute to open source
 * **GitHub Username:** `prarthana08prarthu`
 * **What we built:** We added a `greet()` function to `hello.c` that displays a welcome message with the user's name.
 * **What I learned:** I learned that GitLens helps us see commit history and who made changes, while Live Share allows two people to work on the same code together in real time.
+
+## Projects
+
+I am working on a Smart Rainwater System project that uses sensors and IoT technology to monitor and manage rainwater.
+*.exe
